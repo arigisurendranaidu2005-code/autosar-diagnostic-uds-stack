@@ -1,0 +1,8 @@
+*.o
+*.exe
+*.out
+*.bin
+*.hex
+build/
+.vscode/
+.idea/
